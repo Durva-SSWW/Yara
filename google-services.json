@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400381572887",
+    "project_id": "yara-e5d82",
+    "storage_bucket": "yara-e5d82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400381572887:android:de6921b9435448e6d46952",
+        "android_client_info": {
+          "package_name": "com.durva_ssww.Mental_Health_Wellbeing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbzkGzIQQvgdYGindoFSVRSPIOnkCcJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

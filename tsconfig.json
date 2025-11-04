@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/chat/index.js", "app/chat/_layout.js", "app/index.js", "app/_layout.js"  ]
 }
