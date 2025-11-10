@@ -41,6 +41,7 @@ import {
   cancelAllScheduledNotifications // ADD THIS IMPORT
   ,
 
+
   getScheduledNotifications,
   registerForPushNotificationsAsync,
   scheduleTestNotification
@@ -54,7 +55,7 @@ export default function Index() {
     
     // Initialize notifications - SIMPLIFIED
     const initNotifications = async () => {
-      console.log('🚀 App started - Setting up notifications...');
+      console.log('🚀 App started - Setting up notifications....');
       
       const granted = await registerForPushNotificationsAsync();
       
